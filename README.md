@@ -1,0 +1,2 @@
+# MarketingAI
+Marketing Research AI
